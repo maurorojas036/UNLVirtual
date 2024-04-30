@@ -1,0 +1,36 @@
+Un lenguaje de alto nivel es C#(si sharp). Es un lenguaje que tiene sus origenes
+basados en el lenguaje C, fue crado por Microsoft y su lanzamiento fue en el 2000. Se creo con el objetivo de permitir a los
+ desarrolladores crear una multitud de aplicaciones ejecutadas en
+ . NET Framework (una tecnología que admite la compilación y 
+ejecución de aplicaciones y servicios web XML).
+
+C# es sencillo, con seguridad de tipos y orientado a objetos. Algunas de sus
+caracteristicas mas importantes son:
+* Sintaxis sencilla
+* Sisteme de tipo unificado
+* Orientación a comoponentes
+* Espacio de nombres
+* Bibliotecas
+* Integración con otros lenguajes
+* Multihilo
+* Multiplataformas
+
+Sus ventajas:
+Facilidad de aprendizaje: es un lenguaje de alto nivel y de fácil aprendizaje, lo que lo vuelve accesible para programadores de todos los niveles.
+Seguridad: proporciona características de seguridad integradas, que ayudan a proteger la aplicación contra ataques y vulnerabilidades.
+Desarrollo rápido: permite a los desarrolladores escribir código más rápido y reducir la cantidad de errores y bugs.
+Productividad: ofrece herramientas de desarrollo de alta productividad, como IntelliSense y depuración avanzada, que facilitan la escritura y el depurado del código.
+Soporte multiplataforma: facilita la creación de aplicaciones para Windows, Linux y macOS.
+Comunidad sólida: posee una comunidad sólida y activa de desarrolladores, que brinda apoyo, recursos y soluciones a problemas comunes.
+Rentabilidad: es un lenguaje de programación rentable y de alta demanda, esto significa que los desarrolladores que lo dominan pueden tener una carrera exitosa y bien remunerada.
+
+Sus desventajas:
+Limitado a plataformas de Microsoft: originalmente enfocado en Windows.
+Rendimiento inferior a lenguajes nativos: menos eficiente que lenguajes compilados a código máquina.
+Overhead de tiempo de ejecución: la CLR (máquina virtual Common Language Runtime) puede introducir cierto costo adicional en el tiempo de ejecución.
+Curva de aprendizaje moderada: puede requerir más tiempo para aprender qué lenguajes de scripting son más sencillos.
+Menos adecuado para sistemas de baja potencia: no es ideal para aplicaciones altamente optimizadas en dispositivos de baja potencia.
+
+
+
+
