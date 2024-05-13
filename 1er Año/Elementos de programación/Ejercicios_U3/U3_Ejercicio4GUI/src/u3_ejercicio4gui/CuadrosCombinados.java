@@ -36,6 +36,7 @@ public class CuadrosCombinados extends javax.swing.JFrame {
 
         resultado.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED, java.awt.Color.pink, null, null, java.awt.Color.orange));
 
+        cboColores.setEditable(true);
         cboColores.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Rojo", "Verde", "Azul" }));
         cboColores.setBorder(javax.swing.BorderFactory.createEtchedBorder(new java.awt.Color(0, 0, 0), null));
         cboColores.addActionListener(new java.awt.event.ActionListener() {
@@ -74,7 +75,8 @@ public class CuadrosCombinados extends javax.swing.JFrame {
         String mensaje = "El color elegido es: ";
         
         if(cboColores.getSelectedItem() != null){
-            
+            mensaje = mensaje.concat(cboColores.getSelectedItem().toString());
+            resultado.setText(mensaje);
         }
         
         
